@@ -120,9 +120,9 @@ Trình duyệt sẽ khởi tạo giao diện sử dụng tại:
 ---
 
 **Tác giả :**  
-Sinh viên 1: Tống Anh Kha - 123000367
-Sinh viên 2: Nguyễn Thanh Nam - 123000156
-Giáo viên hướng dẫn: Trần Văn Thành 
+- Sinh viên 1: Tống Anh Kha - 123000367
+- Sinh viên 2: Nguyễn Thanh Nam - 123000156
+- Giáo viên hướng dẫn: Trần Văn Thành 
 
 ## 📝 Giấy phép (License)
 
